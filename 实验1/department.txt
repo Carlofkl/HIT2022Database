@@ -1,0 +1,13 @@
+计算机科学	301	Computing
+软件工程	302	Computing
+人工智能	303	Computing
+信息安全	304	Computing
+数据科学	305	Computing
+物联网	306	Computing
+生物信息	307	Computing
+机械制造	308	Mechatronics	
+工业设计	309	Mechatronics
+通信工程	310	Electronics
+电子工程	311	Electronics
+控制科学	312	Astronautics
+航天航空	313	Astronautics
